@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">homework19</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="imageButtonLoadPhotoDescription">Photo</string>
+    <string name="floatingActionButtonDoPhotoDescription">Do photo</string>
+    <string name="textFieldEnterTitleHint">Title</string>
+    <string name="textFieldEnterDescriptionHint">Description</string>
+    <string name="floatingActionButtonAddNoteDescription">Add Note</string>
+    <string name="textViewTitleNote">Title</string>
+    <string name="textViewDescriptionNote">Description</string>
+    
+    <!--Path-->
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.jpg</string>
+    <string name="authority">com.example.test</string>
+</resources>
